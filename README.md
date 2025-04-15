@@ -1,6 +1,6 @@
 # Custom-Web-Scraper-And-Sentiment-Analyzer
 
-Python, BeautifulSoup, Pandas, TextBlob, Matplotlib, WordCloud
+(Python, BeautifulSoup, Pandas, TextBlob, Matplotlib, WordCloud)
 
 A Web Scraping project I did in my 2nd year that collects headlines from the news24 homepage and stores them in a table for analysis
 
